@@ -11,11 +11,13 @@ https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-
 -basket_analysis
 Basket analysis for cleaned data using Python
 
--main_estimation
-Main estimation codes using Ox. 
+-main_estimation (Using Ox: http://www.doornik.com/ox/ )
+
 myconst_***: Constant numbers
+
+Main estimation codes
 mle_***: Main estimation
 cv_***: Cross varidattion
 
-Numbers like 400, 700, 1000 represent value of tau.
+***: Numbers like 400, 700, 1000 represent the value of tau.
 
